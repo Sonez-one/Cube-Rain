@@ -31,11 +31,11 @@ public class Spawner : MonoBehaviour
 
     private void ActionOnGet(Cube cube)
     {
-        float minSpawnPositonX = -9;
-        float maxSpawnPositonX = 9;
-        float SpawnPositonY = 20;
-        float minSpawnPositonZ = -13;
-        float maxSpawnPositonZ = 13;
+        float minSpawnPositonX = -9f;
+        float maxSpawnPositonX = 9f;
+        float SpawnPositonY = 20f;
+        float minSpawnPositonZ = -13f;
+        float maxSpawnPositonZ = 13f;
 
         Quaternion randomRotation = Random.rotation;
 
