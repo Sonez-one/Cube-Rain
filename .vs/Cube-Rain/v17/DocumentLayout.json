@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|x:\\unity\\projekts\\cuberain homework\\cube-rain\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\spawners\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawners\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\counters\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\counters\\countviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\countviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|x:\\unity\\projekts\\cuberain homework\\cube-rain\\assets\\scripts\\counters\\bombcountviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\bombcountviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|x:\\unity\\projekts\\cuberain homework\\cube-rain\\assets\\scripts\\counters\\cubecountviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\cubecountviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\spawners\\bombspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawners\\bombspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\bomb\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bomb\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\counters\\bombcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\bombcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\counters\\cubecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\cubecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\general\\poolableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\poolableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\spawners\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawners\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\assets\\scripts\\cube\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AAA471-0F82-33BA-B16B-5404B1C426F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cube\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +58,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountViewer.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\CountViewer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CountViewer.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\CountViewer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\CountViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:36:54.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BombCountViewer.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\BombCountViewer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\BombCountViewer.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\BombCountViewer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\BombCountViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:37:23.027Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CubeCountViewer.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\CubeCountViewer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CubeCountViewer.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\CubeCountViewer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\CubeCountViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:37:41.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\Counter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\Counter.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\Counter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\Counter.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:42:11.759Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Spawners\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawners\\Spawner.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Spawners\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawners\\Spawner.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:16:40.235Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -30,15 +144,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Spawner.cs",
-              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Spawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
-              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Spawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CubeSpawner.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Spawners\\CubeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawners\\CubeSpawner.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Spawners\\CubeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawners\\CubeSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T15:07:34.978Z",
+              "WhenOpened": "2025-10-01T12:12:06.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BombSpawner.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Spawners\\BombSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawners\\BombSpawner.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Spawners\\BombSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawners\\BombSpawner.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:21:17.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BombCounter.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\BombCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\BombCounter.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\BombCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\BombCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:41:37.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CubeCounter.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\CubeCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CubeCounter.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Counters\\CubeCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\CubeCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:40:50.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PoolableObject.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\General\\PoolableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PoolableObject.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\General\\PoolableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\PoolableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:12:49.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Bomb\\Bomb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bomb\\Bomb.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Bomb\\Bomb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bomb\\Bomb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:42:38.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Cube\\Cube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cube\\Cube.cs",
+              "ToolTip": "X:\\Unity\\projekts\\CubeRain Homework\\Cube-Rain\\Assets\\Scripts\\Cube\\Cube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cube\\Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:18:10.981Z",
               "EditorCaption": ""
             }
           ]
