@@ -4,6 +4,9 @@ using System;
 
 public class Cube : PoolableObject
 {
+    private readonly float _minLifeTime = 2f;
+    private readonly float _maxLifeTime = 5f;
+
     [SerializeField] private ColorChanger _colorChanger;
 
     private bool _isColorChanged = false;
@@ -27,10 +30,10 @@ public class Cube : PoolableObject
 
     private IEnumerator WaitForRelease()
     {
-        float minLifeTime = 2f;
-        float maxLifeTime = 5f;
+        float lifeTime = UnityEngine.Random.Range(_minLifeTime, _maxLifeTime + 1);
+        var wait = new WaitForSeconds(lifeTime);
 
-        yield return new WaitForSeconds(UnityEngine.Random.Range(minLifeTime, maxLifeTime + 1)); ;
+        yield return wait;
 
         Releasing?.Invoke(this);
     }

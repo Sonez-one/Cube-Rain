@@ -11,6 +11,13 @@ public class ColorChanger : MonoBehaviour
 
     public void ChangeColor()
     {
-        _renderer.material.color = Random.ColorHSV(0f, 1f, 0.1f, 1f, 0.5f, 1f);
+        float hueMin = 0f;
+        float hueMax = 1f;
+        float saturationMin = 0.1f;
+        float saturationMax = 1f;
+        float lightnessMin = 0.5f;
+        float lightnessMax = 1f;
+
+        _renderer.material.color = Random.ColorHSV(hueMin, hueMax, saturationMin, saturationMax, lightnessMin, lightnessMax);
     }
 }
